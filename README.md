@@ -1,1 +1,1 @@
-A simple playground to understand [redux-actins](https://github.com/reduxactions/redux-actions).
+A simple playground to understand [redux-actions](https://github.com/reduxactions/redux-actions).
