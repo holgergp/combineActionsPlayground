@@ -1,8 +1,10 @@
 {
-  "name": "jest-starter",
+  "name": "combineactions-playgorund",
   "version": "0.0.1",
-  "license":"MIT",
-  "dependencies": {},
+  "license": "MIT",
+  "dependencies": {
+    "redux-actions": "^2.2.1"
+  },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-jest": "^21.2.0",

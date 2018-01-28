@@ -1,2 +1,1 @@
-# jestStarter
-Simple Jest Starting ground. Ready to go with ES6, but other fancyness.
+A simple playground to understand [redux-actins](https://github.com/reduxactions/redux-actions).
